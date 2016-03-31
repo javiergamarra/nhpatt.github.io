@@ -8,16 +8,16 @@ theme:
   title: always an underachiever
   avatar: 
   gravatar: 
-  description: "Random musings of nhpatt"
+  description: "Cajón sastre de otro desarrollador más"
 
   # Header and footer text
-  header_text: >
+  header_text: "Always an underachiever"
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
-  rss: false
+  rss: true
   email_address: "nhpatt@gmail.com"
   behance:
   bitbucket:
@@ -63,10 +63,7 @@ paginate: 5
 paginate_path: "blog/page:num"
 
 # BUILD SETTINGS
-safe: true
 markdown: kramdown
-kramdown:
-  input: GFM
 highlighter: rouge
 sass:
   sass_dir: _sass
