@@ -1,9 +1,24 @@
 ---
 layout: default
+body_class: page_template
 ---
-<article {% if page.feature-img %}class="feature-image"{% endif %}>
-  <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
-    <h1 class="title">{{ page.title }}</h1>
+{% if page.image %}
+<div id="feature_image">
+  <div class="inner" style="background-image: url('/images/{{ page.image }}')">
+    <img src='/images/{{ page.image }}'>
+    </div>
+</div>
+{% endif %}
+
+<article role="main" class="{% if page.image %}image{% endif %}">
+  <header>
+    {% include home.html %}
+    <h1>{{ page.title }}</h1>
   </header>
-  <section class="post-content">{{ content }}</section>
+
+  <div class="text">
+    {{ content }}
+  </div>
+  {% include footer.html %}
 </article>
+

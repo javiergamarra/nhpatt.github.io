@@ -1,42 +1,80 @@
 ---
 layout: default
+body_class: post-template
 ---
-<article {% if page.feature-img %}class="feature-image"{% endif %}>
-  <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
-    <h1 class="title">{{ page.title }}</h1>
-    <p class="meta">
-    {{ page.date | date: "%B %-d, %Y" }}
-    {% if page.author %} - {{ page.author }}{% endif %}
-    </p>
-  </header>
-  <section class="post-content">{{ content }}</section>
+{% if page.image %}
+<div id="feature_image">
+    <div class="inner" style="background-image: url('{{ site.baseurl }}/images//{{ page.image }}')">
+        <img src='{{ site.baseurl }}/images/{{ page.image }}'>
+    </div>
+</div>
+<div id="transformation"></div>
+{% endif %}
+
+<article role="main" class="{% if page.image %}image{% endif %}">
+    <header>
+
+        {% include home.html %}
+
+        <div class="meta">
+            <time datetime="{{ page.date | date:'%Y-%m-%d' }}"><a href="{{ page.url }}">{{ page.date | date: "%B %d, %Y"
+                }}</a></time>
+            <span class="count" id="js-reading-time">&nbsp;</span>
+        </div>
+        <h1>{{ page.title }}</h1>
+    </header>
+
+    <div class="text" id="js-post-content">
+        {{ content }}
+    </div>
+
+    <div class="nav">
+        {% if page.previous.url %}
+        <a class="prev{% if page.previous.image %} image{% endif %}"
+           href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
+            {% if page.previous.image %}
+            <img src="{{ '/images/' | prepend: site.baseurl | append: page.previous.image }}" alt="">
+            {% endif %}
+        </a>
+        {% endif %}
+        {% if page.next.url %}
+        <a class="next{% if page.next.image %} image{% endif %}"
+           href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
+            {% if page.next.image %}
+            <img src="{{ '/images/' | prepend: site.baseurl | append: page.next.image }}" alt="">
+            {% endif %}
+        </a>
+        {% endif %}
+    </div>
 </article>
 
-<!-- Post navigation -->
-{% if site.theme.post_navigation %}
-<div id="post-nav">
-    {% if page.previous.url %}
-    <a id="prev-post" href="{{ site.baseurl }}{{ page.previous.url }}">
-      <span class="page-title">{{ page.previous.title }}</span>
-      <span class="nav-label">
-        <i class="fa fa-chevron-left"></i> {{ site.theme.str_prev }}
-      </span>
-    </a>
-    {% endif %}
-    {% if page.next.url %}
-    <a id="next-post" href="{{ site.baseurl }}{{ page.next.url }}">
-       <span class="page-title">{{ page.next.title }}</span>
-       <span class="nav-label">
-        {{ site.theme.str_next }} <i class="fa fa-chevron-right"></i>
-       </span>
-     </a>
-    {% endif %}
-</div>
-{% endif %}
+{% include footer.html %}
 
-<!-- Disqus -->
-{% if site.theme.disqus_shortname %}
-<div class="comments">
-  {% include disqus.html %}
-</div>
-{% endif %}
+<script>
+    window.onload = function () {
+        reading_time();
+    };
+
+    function get_text(el) {
+        var ret = "";
+        var length = el.childNodes.length;
+        for (var i = 0; i < length; i++) {
+            var node = el.childNodes[i];
+            if (node.nodeType != 8) {
+                ret += node.nodeType != 1 ? node.nodeValue : get_text(node);
+            }
+        }
+        return ret;
+    }
+
+    function reading_time() {
+        var post_content = document.getElementById('js-post-content');
+        if (post_content) {
+            var words = get_text(post_content),
+                    count = words.split(/\s+/).length,
+                    read_time = Math.ceil((count / 150)),
+                    read_time_node = document.createTextNode(read_time + ' min read');
+            document.getElementById('js-reading-time').appendChild(read_time_node);
+        }
+    }
+</script>

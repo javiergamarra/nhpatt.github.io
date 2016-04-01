@@ -2,11 +2,14 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+This is my attempt at porting the Roon theme over to Jekyll. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+You can find the official Roon theme (for Ghost) at: [github.com/TryGhost/Roon/](https://github.com/TryGhost/Roon/)
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+You can find the source code my Jekyll version of Roon: [github.com/vormwald/joon](https://github.com/vormwald/joon)
+
+You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+Enjoy!
