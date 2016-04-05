@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is my attempt at porting the Roon theme over to Jekyll. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Javier Gamarra aka nhpatt :)
 
-You can find the official Roon theme (for Ghost) at: [github.com/TryGhost/Roon/](https://github.com/TryGhost/Roon/)
+Soy un informático de Valladolid, afincado desde hace pocos meses en Madrid, siempre ansioso por aprender y saber más de todos los temas en general.
 
-You can find the source code my Jekyll version of Roon: [github.com/vormwald/joon](https://github.com/vormwald/joon)
+Principalmente me dedico al desarrollo en Java EE con Seam (framework de JBoss con JSF/Hibernate/Richfaces…) y al desarrollo móvil con Android. Me gusta aprender por mi cuenta y, entre otras cosas, juego con Javascript y Ruby.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Contaré las cosas que me pasen por la cabeza. Tengo que advertirte que soy muy maniático :)
 
-Enjoy!
+Estoy disponible por [email](nhpatt@gmail.com) o en [twitter](http://twitter.com/nhpatt), [linkedin](http://linkedin.com/javiergamarra), [github](http://github.com/nhpatt), [facebook](http://facebook.com/javiergamarra)...
