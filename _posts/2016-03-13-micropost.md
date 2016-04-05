@@ -4,7 +4,7 @@ title: Micropost
 date: 2016-03-13T13:47:58+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/nhpatt/?p=1200
+guid: http://nhpatt.com/?p=1200
 permalink: /micropost/
 categories:
   - agile

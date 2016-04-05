@@ -4,7 +4,7 @@ title: Android @burgos
 date: 2015-04-06T11:00:09+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/nhpatt/?p=1167
+guid: http://nhpatt.com/?p=1167
 permalink: /android-burgos/
 categories:
   - agile
@@ -13,7 +13,7 @@ La semana pasada empecé a dar un curso básico de Android en Burgos, para [beta
 
 Todo el material está disponible en internet, tanto las [slides](http://kcy.me/1zlg2) en drive (seguramente migre a Markdown para alojarlas en este [repo](https://github.com/nhpatt/Android-en-Burgos)), cómo la [aplicación de ejemplo](https://github.com/nhpatt/MyConference) que suelo desarrollar al mismo tiempo que el curso.
 
-Hay muchas cosas que intento hacer (con relativo éxito) para que la gente se implique más en el curso&#8230; la mayoría están en este post [antiguo](http://nhpatt.com/nhpatt/aprender-ensenando/) y he añadido pocas a mi arsenal (insistir más en pull requests en github, formulario de feedback anónimo).
+Hay muchas cosas que intento hacer (con relativo éxito) para que la gente se implique más en el curso&#8230; la mayoría están en este post [antiguo](http://nhpatt.com/aprender-ensenando/) y he añadido pocas a mi arsenal (insistir más en pull requests en github, formulario de feedback anónimo).
 
 Pero ahora creo que tengo claro una medida del éxito del curso. Para mi, un curso ideal de introducción a Android terminaría con el 100% de alumnos terminando un proyecto propio por su cuenta.
 

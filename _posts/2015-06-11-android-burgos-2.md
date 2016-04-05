@@ -4,7 +4,7 @@ title: Android @burgos
 date: 2015-06-11T12:00:47+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/nhpatt/?p=1195
+guid: http://nhpatt.com/?p=1195
 permalink: /android-burgos-2/
 categories:
   - agile

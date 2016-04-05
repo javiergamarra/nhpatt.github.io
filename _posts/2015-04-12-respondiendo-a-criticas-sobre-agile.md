@@ -4,14 +4,14 @@ title: Respondiendo a críticas sobre agile
 date: 2015-04-12T19:12:36+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/nhpatt/?p=1172
+guid: http://nhpatt.com/?p=1172
 permalink: /respondiendo-a-criticas-sobre-agile/
 categories:
   - agile
 ---
-Por varias redes sociales me ha llegado esta [crítica](http://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/Michael-O-Church?srid=TyrG&share=1) a _agile_. Leedla y volved.Esa crítica ha resonado bastante y me parece muy desacertada. Colaboro con 
+Por varias redes sociales me ha llegado esta [crítica](http://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/Michael-O-Church?srid=TyrG&share=1) a _agile_. Leedla y volved.
 
-[@agilecyl](http://twitter.com/agilecyl) y [@agilespain](http://twitter.com/agilespain) habitualmente por lo que mi opinión al respecto os la podéis imaginar.
+Esa crítica ha resonado bastante y me parece muy desacertada. Colaboro con [@agilecyl](http://twitter.com/agilecyl) y [@agilespain](http://twitter.com/agilespain) habitualmente por lo que mi opinión al respecto os la podéis imaginar.
 
 Pero soy muy pragmático y el primero en reconocer que las metodologías ágiles tienen muchas pegas pero no son las señaladas en esa respuesta en quora.
 
@@ -129,7 +129,9 @@ No. Agile ve que algo va mal e intenta arreglarlo. Por qué no se ha hecho nada 
 
 > This means that there&#8217;s no room to fail, thus no room to experiment. For senior engineers who already know that they can fulfill user stories and trivial features, this also means that there&#8217;s no point in going to work.
 
-El equipo se auto organiza, si el ingeniero experto no quiere hacer historias/funcionalidades sencillas sólo tiene que hablar con sus compañeros. Si quiere investigar en algo sólo tiene que hablar (!) con su equipo.La forma tradicional en desarrollo es investigar a escondidas y mientras tanto decir que estás trabajando en otras cosas. Agile insiste en transparencia y colaboración, si quieres investigar una tecnología háblalo con el equipo en vez de engañarles por la espalda.
+El equipo se auto organiza, si el ingeniero experto no quiere hacer historias/funcionalidades sencillas sólo tiene que hablar con sus compañeros. Si quiere investigar en algo sólo tiene que hablar (!) con su equipo.
+
+La forma tradicional en desarrollo es investigar a escondidas y mientras tanto decir que estás trabajando en otras cosas. Agile insiste en transparencia y colaboración, si quieres investigar una tecnología háblalo con el equipo en vez de engañarles por la espalda.
 
 > I have _actually_ seen it kill companies.
 
@@ -145,7 +147,9 @@ Básicamente un párrafo de 20 líneas en el que vuelve a insistir que agile es 
 
 ## Conclusiones
 
-No he respondido a todo&#8230; porque hay mucho texto y es cansado contestar cuando está claro que el autor ha vivido un sucedáneo de Scrum que destruye todo lo útil que hay detrás. Todos los comentarios del autor son críticas a una &#8220;implantación de Scrum&#8221; en una empresa enterprise sin cambiar nada la forma de trabajar.Me quedo con los errores habituales, Scrum != Agile, Agile o Scrum != crunch time cada 2 semanas.
+No he respondido a todo&#8230; porque hay mucho texto y es cansado contestar cuando está claro que el autor ha vivido un sucedáneo de Scrum que destruye todo lo útil que hay detrás. Todos los comentarios del autor son críticas a una &#8220;implantación de Scrum&#8221; en una empresa enterprise sin cambiar nada la forma de trabajar.
+
+Me quedo con los errores habituales, Scrum != Agile, Agile o Scrum != crunch time cada 2 semanas.
 
 Es un tema polémico, comentad!
 

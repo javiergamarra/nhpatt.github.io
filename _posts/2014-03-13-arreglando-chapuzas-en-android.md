@@ -54,7 +54,9 @@ Los 13 segundos actuales se desglosan en las siguientes operaciones:
   * 1 segundo guardando.
   * 2 segundos actualizando la fecha!!! (sigue siendo demasiado, este código está mal).
 
-**Resultado final: 5 segundos&#8230;** partiendo de 105.Mi enfoque siempre ha sido ver lo que tarda más (con DDMS, trace y código) y atacar, teniendo en cuenta los mensajes del GC en el log. El resultado final también han sido 60 líneas de código menos (en 132 se ha quedado).
+**Resultado final: 5 segundos&#8230;** partiendo de 105.
+
+Mi enfoque siempre ha sido ver lo que tarda más (con DDMS, trace y código) y atacar, teniendo en cuenta los mensajes del GC en el log. El resultado final también han sido 60 líneas de código menos (en 132 se ha quedado).
 
 Hay más mejoras posibles (en [SO](http://stackoverflow.com/questions/1711631/improve-insert-per-second-performance-of-sqlite) hay un listado curioso) pero de momento así se queda, esperando feedback del resto del equipo.
 
