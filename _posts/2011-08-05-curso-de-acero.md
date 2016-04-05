@@ -33,7 +33,7 @@ Hasta entonces no había visto ejemplos de usos reales de Cucumber y me pareció
 
 **La calidad del curso fue sobresaliente**, me parece increíble (no me deja de sorprender) que la gente elabore y dé cursos de esa calidad gratuitamente. Por ello, **tengo que dar las gracias a [@jacegu](https://twitter.com/jacegu) por su tiempo y dedicación**. El único punto negativo es que el curso marca su probable marcha a Madrid :'(.
 
-Como comentario atrasado, las instalaciones de la Agencia de Innovación y Desarrollo Económico son impresionantes, las conocí en las presentaciones de la [aceleradora de proyectos](http://www.aceleradoradeproyectos.es/){.broken_link} y las utilizamos para el taller de Groovy con [Alberto Vilches](https://twitter.com/). Sus trabajadores han estado siempre atentos y colaboradores, por lo que se merecen un **Gracias Enorme**, en especial [@ditelnet](https://twitter.com/ditelnet).
+Como comentario atrasado, las instalaciones de la Agencia de Innovación y Desarrollo Económico son impresionantes, las conocí en las presentaciones de la [aceleradora de proyectos](http://www.aceleradoradeproyectos.es/) y las utilizamos para el taller de Groovy con [Alberto Vilches](https://twitter.com/). Sus trabajadores han estado siempre atentos y colaboradores, por lo que se merecen un **Gracias Enorme**, en especial [@ditelnet](https://twitter.com/ditelnet).
 
 Ahora @jacegu ha levantado el guante, así que esperamos próximamente más cursos sobre lenguajes o tecnologías (a quién no le gustaría una introducción a python :P).
 

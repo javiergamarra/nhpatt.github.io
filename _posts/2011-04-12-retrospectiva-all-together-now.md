@@ -14,7 +14,7 @@ Hace 8 días ya (que rápido pasa el tiempo!) comenzábamos el [All Together Now
 
 La sensación final ha sido maravillosa, he aprendido mucho de otros proyectos, descubierto ideas extraordinarias y discutido con visitas sorpresa :). **Una experiencia que quiero repetir** muchas más veces.
 
-El [proyecto](http://nhpatt.com/2011/03/31/alltogethernow/){.broken_link} que planteábamos [@edulan](https://twitter.com/edulan) y yo al final llegó a buen puerto, pese a encontrar bastantes obstáculos. He recopilado a grandes rasgos las tareas que hicimos cada día (las historias de usuario están en pivotal tracker) y os las comento brevemente. Breve recopilación: grabadora de clases para sordos, que convierte el audio grabado en texto.
+El [proyecto](http://nhpatt.com/2011/03/31/alltogethernow/) que planteábamos [@edulan](https://twitter.com/edulan) y yo al final llegó a buen puerto, pese a encontrar bastantes obstáculos. He recopilado a grandes rasgos las tareas que hicimos cada día (las historias de usuario están en pivotal tracker) y os las comento brevemente. Breve recopilación: grabadora de clases para sordos, que convierte el audio grabado en texto.
 
 [<img class="alignright size-medium wp-image-215" alt="HomeScreen" src="http://nhpatt.com/nhpatt/wp-content/uploads/2011/04/HomeScreen-200x300.png" width="200" height="300" srcset="http://nhpatt.com/nhpatt/wp-content/uploads/2011/04/HomeScreen-200x300.png 200w, http://nhpatt.com/nhpatt/wp-content/uploads/2011/04/HomeScreen.png 320w" sizes="(max-width: 200px) 100vw, 200px" />](http://nhpatt.com/nhpatt/wp-content/uploads/2011/04/HomeScreen.png)
 

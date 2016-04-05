@@ -10,7 +10,7 @@ categories:
   - coderetreat
   - dev
 ---
-El pasado 7 de Mayo asistí a un Code Retreat en Valladolid, con [Enrique Comba](https://twitter.com/ecomba) de facilitador. No voy a contar nada que gente como [@amaliahern](http://mazapanfeliz.es/2011/05/08/code-retreat/){.broken_link} o [@jjballano](https://twitter.com/jjballano) no hayan comentado ya, pero si que quería comentar brevemente el formato del evento y mis impresiones.
+El pasado 7 de Mayo asistí a un Code Retreat en Valladolid, con [Enrique Comba](https://twitter.com/ecomba) de facilitador. No voy a contar nada que gente como [@amaliahern](http://mazapanfeliz.es/2011/05/08/code-retreat/) o [@jjballano](https://twitter.com/jjballano) no hayan comentado ya, pero si que quería comentar brevemente el formato del evento y mis impresiones.
 
 Un Code Retreat es un evento para desarrolladores en el que se practica un, aparentemente simple, ejercicio de programación, el [juego de la vida de Conway](http://en.wikipedia.org/wiki/Conway%27s_game_of_life). Corey Haines lo expone extensamente en esta [página](http://coderetreat.org/facilitating/structure-of-a-coderetreat). A lo largo del día realizamos 8 iteraciones de 45 minutos, aplicando [pair-programming](http://en.wikipedia.org/wiki/Pair_programming) y [TDD](http://en.wikipedia.org/wiki/Test-driven_development). Al final de la iteración, borrábamos todo el código y volvíamos a empezar.
 

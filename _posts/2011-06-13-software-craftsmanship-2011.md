@@ -11,7 +11,7 @@ categories:
 ---
 El pasado jueves, 26 de Mayo, atendí a la [Software Craftsmanship 2011](http://www.codemanship.co.uk/softwarecraftsmanship/), en [Bletchley Park](http://www.bletchleypark.org.uk/). La experiencia fue magnífica, las sesiones tenían un nivel envidiable y estaba rodeado de figuras del mundo del desarrollo y el agilismo como [Jason Gorman](https://twitter.com/#!/jasongorman), [Michael Feathers](http://www.objectmentor.com/omTeam/feathers_m.html), [Rachel Davies](http://agilecoach.typepad.com/about.html)&#8230;
 
-De las sesiones en los 4 tracks escogí _Refactoring -There’s That Word Again_ de [Jason Gorman](https://twitter.com/jasongorman), _Enhancing Legacy Test Suites_ de [Christian Horsdal](https://twitter.com/#!/chr_horsdal){.broken_link} y _The Lean Code Challenge_ de [Chris Parsons](https://twitter.com/#!/chrismdp){.broken_link}. Además asistí a la sesión opcional _Personal Codes Of Conduct_ de Matt Williams.
+De las sesiones en los 4 tracks escogí _Refactoring -There’s That Word Again_ de [Jason Gorman](https://twitter.com/jasongorman), _Enhancing Legacy Test Suites_ de [Christian Horsdal](https://twitter.com/#!/chr_horsdal) y _The Lean Code Challenge_ de [Chris Parsons](https://twitter.com/#!/chrismdp). Además asistí a la sesión opcional _Personal Codes Of Conduct_ de Matt Williams.
 
 Las sesiones en sí darían para un post aparte (sobre todo The Lean Code Challenge y Personal Codes of Conduct) pero me temo que tendrá que ser más tarde.
 

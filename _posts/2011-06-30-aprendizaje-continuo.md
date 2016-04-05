@@ -60,7 +60,7 @@ También resuelvo dudas fuera de mi horario de trabajo, de gente haciendo práct
 
 ### Podcasts
 
-Complemento mi formación siguiendo algunos podcasts técnicos . De momento son pocos ([Podgramando](https://twitter.com/podgramando), [Rails Hispano](http://railshispano.es/){.broken_link}, [TMTC](http://teachmetocode.com/podcast/), [JavaHispano](http://feeds2.feedburner.com/JHPodcasts), [Stack Exchange](http://blog.stackoverflow.com/category/podcasts/){.broken_link} y [Pragmatic](https://pragprog.com/podcasts)). **Si alguien conoce alguno más, comentad!**
+Complemento mi formación siguiendo algunos podcasts técnicos . De momento son pocos ([Podgramando](https://twitter.com/podgramando), [Rails Hispano](http://railshispano.es/), [TMTC](http://teachmetocode.com/podcast/), [JavaHispano](http://feeds2.feedburner.com/JHPodcasts), [Stack Exchange](http://blog.stackoverflow.com/category/podcasts/) y [Pragmatic](https://pragprog.com/podcasts)). **Si alguien conoce alguno más, comentad!**
 
 Me sirven para conocer nuevas herramientas y son fácilmente compaginables con actividades físicas, cómo ir en bici al trabajo (carril bici :P).
 
