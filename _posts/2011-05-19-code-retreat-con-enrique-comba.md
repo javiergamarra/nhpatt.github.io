@@ -23,6 +23,3 @@ La experiencia fue muy muy buena y repetiré lo más pronto que pueda. Me llev
 De momento el siguiente evento al que me apunto es la [Software Craftsmanship 2011](http://www.codemanship.co.uk/softwarecraftsmanship/) en [Bletchley Park](http://es.wikipedia.org/wiki/Bletchley_Park), UK (dónde Turing crackeó Enigma), la próxima semana.
 
 Y, por último, dar las gracias a [@agilecyl](https://twitter.com/agilecyl) por organizarlo y a los patrocinadores: <a href="https://twitter.com/" target="_blank">Wiseri</a>, <a href="https://www.cpiicyl.org/" target="_blank">el Colegio Profesional Ingenieros Informáticos de Castilla y León</a>, <a href="http://www.wtelecom.es/" target="_blank">Wellness Telecom</a>, <a href="https://twitter.com/" target="_blank">Agroguia</a> y <a href="https://twitter.com/" target="_blank">Kubbos</a>.
-
-&nbsp;
-
