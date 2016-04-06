@@ -4,12 +4,16 @@ title: about
 permalink: /about/
 ---
 
-Javier Gamarra aka nhpatt :)
+<img src='/images/avatar.jpg' style="width:100px;float:left;padding-right:20px">
 
-Soy un informático de Valladolid, afincado desde hace pocos meses en Madrid, siempre ansioso por aprender y saber más de todos los temas en general.
+Javier Gamarra, nhpatt on the internet.
 
-Principalmente me dedico al desarrollo en Java EE con Seam (framework de JBoss con JSF/Hibernate/Richfaces…) y al desarrollo móvil con Android. Me gusta aprender por mi cuenta y, entre otras cosas, juego con Javascript y Ruby.
+Developer always eager to learn and improve.
 
-Contaré las cosas que me pasen por la cabeza. Tengo que advertirte que soy muy maniático :)
+I'm working as an Android developer at [Liferay](http://liferay.com) and I've worked in many development stacks: JS (angular, node...), Java EE, Scala or python.
 
-Estoy disponible por [email](nhpatt@gmail.com) o en [twitter](http://twitter.com/nhpatt), [linkedin](http://linkedin.com/javiergamarra), [github](http://github.com/nhpatt), [facebook](http://facebook.com/javiergamarra)...
+I love challenges and learning about data visualization.
+
+I am an organizer in [@cylicon_valley](http://twitter.com/cylicon_valley), a tech meetup in CyL, to help spread better technical practices in other companies and a member of the board of [@agilespain](http://twitter.com/agilespain), the Spanish Agile national association. I also organize and give talks in several other tech groups.
+
+I'm available through <a href="mailto:nhpatt@gmail.com">email</a> or [twitter](http://twitter.com/nhpatt), [linkedin](https://www.linkedin.com/in/javiergamarraolmedo), [github](http://github.com/nhpatt), [facebook](http://facebook.com/javiergamarra)...
