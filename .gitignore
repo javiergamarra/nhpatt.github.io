@@ -5,3 +5,5 @@ Gemfile.lock
 
 .idea/
 *.iml
+
+future/
