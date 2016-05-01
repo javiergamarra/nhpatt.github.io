@@ -1,23 +1,18 @@
 # Site settings
-title: "Joon: Roon for Jekyll"
-logo: logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
-email: your-email@domain.com
-description: > # this means to ignore newlines until "url:"
-  Roon was an excellent service, with a beautiful understated design. After
-  being acquired by <a href='https://ghost.org'>Ghost</a>, the Roon theme was
-  open sourced.<br> This is my Jekyll port of the Roon theme.
-url: "http://vormwald.github.io" # the base hostname & protocol for your site
-baseurl: "/joon" # the subpath of your site, e.g. /blog/
-twitter_username: jekyllrb
-github_username:  jekyll
+title: "always an underachiever"
+logo:
+email: nhpatt@gmail.com
+description: Javier Gamarra aka nhpatt
+url: "http://nhpatt.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+twitter_username: nhpatt
+github_username:  nhpatt
 
 permalink: pretty
 paginate: 5
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
 
 gems:
-  - jekyll-sitemap
   - jekyll-paginate
