@@ -4,15 +4,15 @@ body_class: page_template
 ---
 {% if page.image %}
 <div id="feature_image">
-  <div class="inner" style="background-image: url('/content/images/{{ page.image }}')">
-    <img src='/content/images/{{ page.image }}'>
+  <div class="inner" style="background-image: url('/images/{{ page.image }}')">
+    <img src='/images/{{ page.image }}'>
     </div>
 </div>
 {% endif %}
 
 <article role="main" class="{% if page.image %}image{% endif %}">
   <header>
-    <a href="{{ site.baseurl }}/" id="home_link">«</a>
+    {% include home.html %}
     <h1>{{ page.title }}</h1>
   </header>
 
