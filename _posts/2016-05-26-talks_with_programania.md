@@ -1,6 +1,6 @@
 ---
 title: Talks with programania and how *not* to design an SDK
-date: 2016-05-26T12:00:00+00:00
+date: 2016-05-26T11:00:00+00:00
 author: nhpatt
 layout: post
 guid: http://nhpatt.com/talks_with_programania
