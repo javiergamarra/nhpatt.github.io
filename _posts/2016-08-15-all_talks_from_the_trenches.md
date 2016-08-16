@@ -5,7 +5,7 @@ author: nhpatt
 layout: post
 guid: http://nhpatt.com/all_talks_from_the_trenches
 permalink: /all_talks_from_the_trenches/
-image: all_talks_from_the_trenches.png
+image: all_talks_from_the_trenches.jpg
 categories:
   - cylicon valley
   - talks
