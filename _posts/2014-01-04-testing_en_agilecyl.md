@@ -4,7 +4,7 @@ title: Testing en agilecyl
 date: 2014-01-04T12:00:32+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=836
+guid: http://nhpatt.com/testing_en_agilecyl/
 permalink: /testing_en_agilecyl/
 categories:
   - dev

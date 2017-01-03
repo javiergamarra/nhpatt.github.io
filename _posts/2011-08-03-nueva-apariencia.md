@@ -4,7 +4,7 @@ title: Nueva apariencia
 date: 2011-08-03T19:13:24+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=472
+guid: http://nhpatt.com/nueva-apariencia/
 permalink: /nueva-apariencia/
 categories:
   - blog

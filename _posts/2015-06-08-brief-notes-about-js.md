@@ -4,7 +4,7 @@ title: Brief notes about JS
 date: 2015-06-08T12:00:40+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=1185
+guid: http://nhpatt.com/brief-notes-about-js/
 permalink: /brief-notes-about-js/
 categories:
   - dev

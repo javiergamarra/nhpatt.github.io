@@ -4,7 +4,7 @@ title: Curso de Hibernate con recursos
 date: 2013-08-06T18:00:40+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=705
+guid: http://nhpatt.com/curso-de-hibernate/
 permalink: /curso-de-hibernate/
 categories:
   - cursos

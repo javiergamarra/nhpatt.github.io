@@ -4,7 +4,7 @@ title: Codermetrics
 date: 2013-01-02T13:00:31+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=662
+guid: http://nhpatt.com/codermetrics/
 permalink: /codermetrics/
 categories:
   - dev

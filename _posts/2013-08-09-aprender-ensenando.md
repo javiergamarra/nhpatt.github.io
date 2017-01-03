@@ -4,7 +4,7 @@ title: Aprender enseñando
 date: 2013-08-09T12:00:21+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=697
+guid: http://nhpatt.com/aprender-ensenando/
 permalink: /aprender-ensenando/
 categories:
   - cursos

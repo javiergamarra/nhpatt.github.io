@@ -4,7 +4,7 @@ title: El mito de la ley de Parkinson y el desarrollo software
 date: 2013-08-16T12:00:59+00:00
 author: nhpatt
 layout: post
-guid: https://nhpatt.wordpress.com/?p=158
+guid: https://nhpatt.com/el-mito-de-la-ley-de-parkinson-y-el-desarrollo-software/
 permalink: /el-mito-de-la-ley-de-parkinson-y-el-desarrollo-software/
 categories:
   - agile

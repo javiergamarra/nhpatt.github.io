@@ -4,7 +4,7 @@ title: Sobre calentar la silla y hacer carrera
 date: 2013-09-09T12:00:34+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=778
+guid: http://nhpatt.com/sobre-calentar-la-silla-y-hacer-carrera/
 permalink: /sobre-calentar-la-silla-y-hacer-carrera/
 categories:
   - agile

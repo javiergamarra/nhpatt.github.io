@@ -4,7 +4,7 @@ title: AllTogetherNow
 date: 2011-03-31T09:37:51+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=183
+guid: http://nhpatt.com/alltogethernow/
 permalink: /alltogethernow/
 categories:
   - agile

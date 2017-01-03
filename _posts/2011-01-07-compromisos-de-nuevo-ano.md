@@ -4,7 +4,7 @@ title: Compromisos de nuevo año
 date: 2011-01-07T08:00:51+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.wordpress.com/?p=35
+guid: http://nhpatt.com/compromisos-de-nuevo-ano/
 permalink: /compromisos-de-nuevo-ano/
 jabber_published:
   - 1294396359

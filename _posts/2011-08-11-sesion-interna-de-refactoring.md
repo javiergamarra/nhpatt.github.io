@@ -4,7 +4,7 @@ title: Sesión interna de refactoring
 date: 2011-08-11T12:00:21+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=431
+guid: http://nhpatt.com/sesion-interna-de-refactoring/
 permalink: /sesion-interna-de-refactoring/
 categories:
   - dev

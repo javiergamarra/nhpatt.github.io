@@ -4,7 +4,7 @@ title: Conferencia Rails 2011 (2/2)
 date: 2011-07-31T12:00:46+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=403
+guid: http://nhpatt.com/conferencia-rails-2011-22/
 permalink: /conferencia-rails-2011-22/
 categories:
   - dev

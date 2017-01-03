@@ -4,7 +4,7 @@ title: Nuevo sitio!
 date: 2011-03-29T22:27:08+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=175
+guid: http://nhpatt.com/nuevo-sitio/
 permalink: /nuevo-sitio/
 categories:
   - blog

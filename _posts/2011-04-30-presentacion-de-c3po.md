@@ -4,7 +4,7 @@ title: Presentación de C3PO
 date: 2011-04-30T20:00:37+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=225
+guid: http://nhpatt.com/presentacion-de-c3po/
 permalink: /presentacion-de-c3po/
 categories:
   - all together now

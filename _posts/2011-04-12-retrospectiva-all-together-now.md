@@ -4,7 +4,7 @@ title: Retrospectiva All Together Now
 date: 2011-04-12T00:15:19+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=191
+guid: http://nhpatt.com/retrospectiva-all-together-now/
 permalink: /retrospectiva-all-together-now/
 categories:
   - agile

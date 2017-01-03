@@ -4,7 +4,7 @@ title: 'Review de Refactoring: improving the design of existing code'
 date: 2011-08-08T11:00:35+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=429
+guid: http://nhpatt.com/review-de-refactoring-improving-the-design-of-existing-code/
 permalink: /review-de-refactoring-improving-the-design-of-existing-code/
 categories:
   - dev

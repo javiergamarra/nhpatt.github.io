@@ -4,7 +4,7 @@ title: Arreglando chapuzas en Android (un caso práctico)
 date: 2014-03-13T12:00:09+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=938
+guid: http://nhpatt.com/arreglando-chapuzas-en-android/
 permalink: /arreglando-chapuzas-en-android/
 categories:
   - dev

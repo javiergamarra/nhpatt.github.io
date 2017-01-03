@@ -4,7 +4,7 @@ title: Raising Crane
 date: 2012-12-08T16:00:41+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=600
+guid: http://nhpatt.com/raising-crane-2/
 permalink: /raising-crane-2/
 categories:
   - agile

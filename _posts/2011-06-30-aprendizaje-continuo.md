@@ -4,7 +4,7 @@ title: Aprendizaje continuo
 date: 2011-06-30T12:45:31+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=329
+guid: http://nhpatt.com/aprendizaje-continuo/
 permalink: /aprendizaje-continuo/
 categories:
   - dev

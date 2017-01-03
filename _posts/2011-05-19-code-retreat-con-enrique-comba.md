@@ -4,7 +4,7 @@ title: Code retreat con Enrique Comba
 date: 2011-05-19T22:52:44+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=230
+guid: http://nhpatt.com/code-retreat-con-enrique-comba/
 permalink: /code-retreat-con-enrique-comba/
 categories:
   - coderetreat

@@ -4,7 +4,7 @@ title: Update con joins
 date: 2011-08-02T11:00:29+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=371
+guid: http://nhpatt.com/update-con-joins/
 permalink: /update-con-joins/
 categories:
   - dev

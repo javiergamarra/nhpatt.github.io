@@ -4,7 +4,7 @@ title: Micropost (v2)
 date: 2016-03-20T13:23:44+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=1203
+guid: http://nhpatt.com/micropost-v2/
 permalink: /micropost-v2/
 categories:
   - agile

@@ -4,7 +4,7 @@ title: hackforgood
 date: 2013-03-10T13:00:40+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=684
+guid: http://nhpatt.com/hackforgood/
 permalink: /hackforgood/
 categories:
   - agile

@@ -4,7 +4,7 @@ title: Software Craftsmanship 2011
 date: 2011-06-13T22:09:22+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=243
+guid: http://nhpatt.com/software-craftsmanship-2011/
 permalink: /software-craftsmanship-2011/
 categories:
   - dev

@@ -4,7 +4,7 @@ title: Review de Peopleware
 date: 2011-01-25T00:55:19+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.wordpress.com/?p=54
+guid: http://nhpatt.com/review-de-peopleware/
 permalink: /review-de-peopleware/
 jabber_published:
   - 1295913320

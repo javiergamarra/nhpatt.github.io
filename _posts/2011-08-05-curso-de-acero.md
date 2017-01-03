@@ -4,7 +4,7 @@ title: Curso de entorno Ruby
 date: 2011-08-05T11:00:52+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=374
+guid: http://nhpatt.com/curso-de-acero/
 permalink: /curso-de-acero/
 categories:
   - dev

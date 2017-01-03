@@ -4,7 +4,7 @@ title: Empezamos!
 date: 2010-12-11T20:23:09+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.wordpress.com/?p=10
+guid: http://nhpatt.com/empezamos
 permalink: /empezamos/
 jabber_published:
   - 1292095389

@@ -4,7 +4,7 @@ title: Evolución de Java (desde JDK5 a 8)
 date: 2013-12-16T12:00:20+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=834
+guid: http://nhpatt.com/evolucion_de_java/
 permalink: /evolucion_de_java/
 categories:
   - dev

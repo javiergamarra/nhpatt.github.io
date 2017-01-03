@@ -4,7 +4,7 @@ title: Contratos ágiles
 date: 2011-01-05T21:15:17+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.wordpress.com/?p=48
+guid: http://nhpatt.com/contratos-agiles/
 permalink: /contratos-agiles/
 jabber_published:
   - 1294258519

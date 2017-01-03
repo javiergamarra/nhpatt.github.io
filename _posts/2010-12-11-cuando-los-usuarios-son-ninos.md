@@ -4,7 +4,7 @@ title: 'Cuando los usuarios son niños&#8230;'
 date: 2010-12-11T21:21:15+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.wordpress.com/?p=14
+guid: http://nhpatt.com/cuando-los-usuarios-son-ninos/
 permalink: /cuando-los-usuarios-son-ninos/
 jabber_published:
   - 1292098875

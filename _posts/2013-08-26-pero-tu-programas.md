@@ -4,7 +4,7 @@ title: ¿Pero tú programas?
 date: 2013-08-26T12:00:11+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=756
+guid: http://nhpatt.com/pero-tu-programas/
 permalink: /pero-tu-programas/
 categories:
   - agile

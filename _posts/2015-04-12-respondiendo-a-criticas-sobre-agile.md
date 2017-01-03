@@ -4,7 +4,7 @@ title: Respondiendo a críticas sobre agile
 date: 2015-04-12T19:12:36+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/?p=1172
+guid: http://nhpatt.com/respondiendo-a-criticas-sobre-agile/
 permalink: /respondiendo-a-criticas-sobre-agile/
 categories:
   - agile
