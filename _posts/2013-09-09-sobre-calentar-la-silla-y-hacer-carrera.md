@@ -9,7 +9,7 @@ permalink: /sobre-calentar-la-silla-y-hacer-carrera/
 categories:
   - agile
 ---
-La mayor parte de las críticas del [último post](http://nhpatt.com/2013/08/26/pero-tu-programas/) discrepaban sobre dos puntos concretos:
+La mayor parte de las críticas del [último post](http://nhpatt.com/pero-tu-programas/) discrepaban sobre dos puntos concretos:
 
   * En respuesta a &#8220;_En el mundo de la informática hay de todo (&#8230;) hasta gente con poca pasión/interés/lo\_que\_sea que intenta calentar la silla. Hay hueco para todos. No quiero convertirme en alguien que calienta la silla_&#8220;** **había un argumento recurrente, parafraseado: &#8220;Es difícil disfrutar de tu trabajo si estás en un ambiente que limita tu creatividad, libertad&#8230; en ese caso es fácil/aceptable convertirse en un calienta-sillas y dar rienda a tu pasión en casa&#8221;.
 
