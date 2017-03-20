@@ -1,5 +1,5 @@
 ---
-title: About Legacy Code
+title: LechazoConf and budget
 date: 2017-03-20T11:00:00+00:00
 author: nhpatt
 layout: post
@@ -43,3 +43,5 @@ And we're expecting to earn 4.200€ with sponsors and 7.000€ with tickets (16
 Given that catering costs us 37,00€ per person and the regular ticket is 41,32€ and we have to cover merchandising, travel, venue... we don't have **any** margin at all.
  
 Let's see what happens! :D
+
+PD: tickets are [here](http://lechazoconf.com/)!
