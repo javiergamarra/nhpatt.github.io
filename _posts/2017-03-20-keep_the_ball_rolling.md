@@ -27,7 +27,7 @@ So estimating 220 attendees and we're expecting to spend 11.200 euros, split in 
 *   550,00€ for the venue
 *   500,00€ for recording and streaming the talks
 * 6.160,00€ in food
-* 1.980,00€ in coffee and breakfast ()
+* 1.980,00€ in coffee and breakfast
 * 1.050,00€ for paying travel and accommodation for the speakers
 *   100,00€ for decoration
 *   660,00€ for merchandising
