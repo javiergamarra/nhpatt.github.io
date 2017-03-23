@@ -12,7 +12,7 @@ categories:
   - events
 ---
 
-I'm awful posting regularly so I'm going to try (again!) to post something... at least once a month?
+I'm awful at posting regularly so I'm going to try (again!) to post something... at least once a month?
 
 Let's start with something easy to create a habit...
 
@@ -22,7 +22,7 @@ As always we're not expecting to earn a dime and if we manage to end with a prof
 
 I'll try to explain the current budget and see in the end if we managed to follow it.
 
-So estimating 220 attendees and we're expecting to spend 11.200 euros, split in these areas:
+We're estimating 220 attendees and expecting to spend 11.200 euros, split in these areas:
 
 *   550,00€ for the venue
 *   500,00€ for recording and streaming the talks
@@ -33,10 +33,10 @@ So estimating 220 attendees and we're expecting to spend 11.200 euros, split in 
 *   660,00€ for merchandising
 *   200,00€ for unexpected costs
 
-So 81% is planned to be spent on catering, estimating 4,5€ per coffee break that is *really* cheap and 
-I hope it won't bite us later. Take into account that bringing coffee to an event is not the same as serving one in a bar. 
+So 81% is planned to be spent on catering, about 4,5€ per coffee break that is *really* cheap and 
+I hope it won't bite us later. Take into account that providing coffee to an event is not the same as serving one in a bar. 
 You have to bring all the equipment, people and spend a saturday morning (and pay people just to be there). 
-So 5-6 euros is a normal amount for that service in all the caterings.
+So 5-6 euros is a reasonable amount for that service.
 
 And we're expecting to earn 4.200€ with sponsors and 7.000€ with tickets (16,52€ for students, 33,05€ for early birds and 41,32€ for regular tickets).
 
