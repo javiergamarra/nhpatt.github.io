@@ -5,7 +5,7 @@ author: nhpatt
 layout: post
 guid: http://nhpatt.com/keep_the_ball_rolling
 permalink: /keep_the_ball_rolling/
-image: logo-lechazo-color.svg
+image: logo_lechazo_color.svg
 categories:
   - cylicon valley
   - lechazo conf
