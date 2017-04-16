@@ -5,7 +5,7 @@ author: nhpatt
 layout: post
 guid: http://nhpatt.com/talks_with_programania
 permalink: /talks_with_programania/
-image: how-to-not-design-an-sdk.png
+image: how_to_not_design_an_sdk.png
 categories:
   - android
   - sdk development
