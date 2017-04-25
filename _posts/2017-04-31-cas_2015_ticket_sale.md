@@ -26,7 +26,7 @@ This is the real sales graph:
 
 <img src="../images/cas_2015_ticket_sale.png">
 
-There are less weird spikes. In fact there are only few days where we sold more than 10 tickets and **we can 
+There are less weird spikes. In fact there are only a few days where we sold more than 10 tickets and **we can 
 map them to special events**, the more important being:
 
 * 21/09 with 44 tickets sold was the **last day of the early bird discount**. 
@@ -37,7 +37,7 @@ tickets cost 350€ (!).
 Apart from those dates we can identify more spikes:
 
 * 18/06 was the date we started selling tickets
-* 25/06 with 11 tickets was the next saturday after the announcement (people waited to the weekend to buy the tickets)
+* 25/06 with 11 tickets was the next saturday after the announcement (people waited until the weekend to buy the tickets)
 * 12/11 and the dates around were sales of speakers with rejected proposals, we sent the email with the rejections on that date. 
 
 ## Slow sale
@@ -45,7 +45,7 @@ Apart from those dates we can identify more spikes:
 We just sold 183 tickets until the 21/09 (just 2 months before the conference), for a final attendance count of 723!. 
 It's exactly the 25% of the final attendance. 
 
-I don't think this slow sale can be extrapolated to other conferences. The conference was held in Madrid and a lot of attendees didn't had
+I don't think this slow sale can be extrapolated to other conferences. The conference was held in Madrid and a lot of attendees didn't have
 to book a hotel or plan a trip to be able to go. The way we structured the sale **didn't create any sense of urgency** (more on this later) so
 most people delayed buying a ticket until the last moment.
 
@@ -70,7 +70,7 @@ The month distribution was this one:
     </tr>
 </table>
 
-Basically no sales in summer. It's a very bad idea to start selling in june. We tried to launch earlier but it was 
+Basically no sales in summer. It's a very bad idea to start selling in June. We tried to launch earlier but it was 
 impossible due to several problems.
 
 ## Sales, deadlines and agenda 
@@ -97,17 +97,17 @@ asking for normal priced tickets. Those emails included, as I mentioned in the p
 hadn't bought the ticket and now it was out of their budget. Or people that always attended the conference but had forgotten, or waited until the last minute, to buy
 the ticket. 
 
-We closed the regular ticket sale just two weeks after the event and we found that **we didn't had space for those (>50) unexpected attendees**. If we had
+We closed the regular ticket sale just two weeks after the event and we found that **we didn't have space for those (>50) unexpected attendees**. If we had
 closed the regular ticket sale earlier we would have found it sooner with more time to manage those requests and cancel the sale of the last minute tickets.
 
 That's why I think we should have started selling last minute tickets earlier, **to force people to commit to the event and reveal those emails earlier**. 
-We didn't wanted to sell tickets at 350€ (at least not me), I want people to commit to the event earlier because if they wait to the last minute I can't organize it
+We didn't want to sell tickets at 350€ (at least not me), I want people to commit to the event earlier because if they wait until the last minute I can't organize it
 properly. 
 
 I can't see the future and, with just 183 tickets sold 2 months after the event, try to hire a catering, see if we have enough room on the venue or buy merchandising.
 
 We had to send three emails to the sponsors asking them to increase their merchandising gifts because of the higher attendance. Obviously some of them couldn't manufacture/send
- more stuff with so little time left and we ran out of some swagger. The last minute tickets didn't had t-shirts because we also ran out (try to enforce that rule in the middle of the conference).
+ more stuff with so little time left and we ran out of some swagger. The last minute tickets didn't have t-shirts because we also ran out (try to enforce that rule in the middle of the conference).
  **All these mistakes created a poor conference experience**
   
 ## Sense of urgency
@@ -138,7 +138,7 @@ Things we didn't try:
 * Contact someone of marketing to help us :(
 
 At the end the conference was a success if measured only taking into account the final headcount: 723 people attended. 
-As I've remarked several times, I would have loved knowing than almost 300 people would buy their ticket on the last possible moment.  
+As I've remarked several times, I would have loved knowing than almost 300 people would buy their ticket at the last possible moment.  
 
 ## Perception of cost and when your early bird is your regular ticket price
  
@@ -186,11 +186,11 @@ This is going to surprise you... this is the table with the ticketing options (r
 Those are the prices (without VAT), amounts and percentages of the tickets sold for the students, group discount, 
 super early bird (early bird for previous attendees), early bird, sponsorships, regular and last-minute tickets.
 
-Almost **70% of the tickets** costed less than the regular ticket, less than 136 euros (without VAT). 26% of the tickets were *regular* and 5% *last minute*.
+Almost **70% of the tickets** cost less than the regular ticket, less than 136 euros (without VAT). 26% of the tickets were *regular* and 5% *last minute*.
 
 **When your early bird is the most sold type of tickets (56%), that's not your early bird, it's your regular ticket price**.
 
-Having tickets at 200€ and 350€ only serves to spread the idea of being a expensive conference, although your mean ticket price 
+Having tickets at 200€ and 350€ only serves to spread the idea of being an expensive conference, although your mean ticket price 
 is 165€... if you want to promote the idea of an exclusive conference it could be useful to promote that idea but that wasn't our case.
  
 We sold 292 tickets at early bird price but people felt our conference was expensive, infused by the public prices of 200€ and 350€. 
@@ -198,7 +198,7 @@ This again, was another mistake.
  
 ## Final problems measuring attendance
 
-I've explained how we sold tickets with ticketea, but if you sum all the amounts it doesn't sum 723. Where do that number comes from?
+I've explained how we sold tickets with ticketea, but if you sum all the amounts it doesn't sum 723. Where do that number come from?
 
 <table>
     <tr>
@@ -217,13 +217,13 @@ I've explained how we sold tickets with ticketea, but if you sum all the amounts
     </tr>
 </table>
 
-Transfers are other type of sold tickets so 27% of the tickets were not directly bought, either because were linked to a 
+Transfers are another type of sold tickets so 27% of the tickets were not directly bought, either because were linked to a 
 sponsorship (96), belong to speakers and keynotes (53) or were free for various reasons (press, recordings, volunteers...).
 
 **Rookie mistake**: calculate exactly how many people are going to attend to your conference with a free ticket, either 
 because they are sponsors, keynotes, volunteers, speakers, press...
 
-We did take into account all the tickets associated to a sponsorship and speakers but we set a low estimate for volunteers
+We did take into account all the tickets associated with a sponsorship and speakers but we set a low estimate for volunteers
 and other free tickets and found we had 20 people more at the last minute, again messing up our planning.
 
 ## Things not covered here
@@ -236,5 +236,3 @@ There are some things I haven’t covered that are related to the event, things 
 Maybe for a next post in a far future.
 
 Feedback is appreciated, just send me a [tweet](https://twitter.com/nhpatt).
-
-

@@ -15,9 +15,9 @@ There is a word for this, I'm pretty sure.
 
 In a software community (it doesn't matter which one) there are always mantras, things the community consider **true** and repeating them in talks or conversations is a proof of belonging to the group, some sort of an insider joke.
 
-If you are outside the community you don't know those mantras and usually you are taught **just the opposite** in circles outside the community, like universities, non-opinionated books or online courses.
+If you are outside the community you don't know those mantras and usually, you are taught **just the opposite** in circles outside the community, like universities, non-opinionated books or online courses.
 
-The javascript and ruby communities have several of those mantras, usually modelled in writing *idiomatic* ruby or JS and leading to huge fights about the importance of semicolons.
+The javascript and ruby communities have several of those mantras, usually modeled in writing *idiomatic* ruby or JS and leading to huge fights about the importance of semicolons.
 
 The Android community has some also, usually grounded on bad API design in the Android core. I consider them **well founded** but I'm a bit afraid of repeating them without **justifying** them.
 

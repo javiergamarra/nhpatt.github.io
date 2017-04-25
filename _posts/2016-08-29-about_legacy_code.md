@@ -19,7 +19,7 @@ Here are the [slides](https://speakerdeck.com/nhpatt/working-effectively-with-le
 
 I didn't love the book (even after the second reading), some reasons are explained in the talk but I'll try to describe a few. 
 
-One of my main gripes with the book is that is too focused in testing and that focus is a turn-off for a lot of programmers. 
+One of my main gripes with the book is that is too focused on testing and that focus is a turn-off for a lot of programmers. 
 
 Nowadays (even in languages like JS) there are a lot of *safe* refactorings with your IDE that could help when dealing with a legacy project. 
 The book explains several strategies that do not need tests (and I find those chapters quite interesting) but most of the chapters talk about how to write tests or change the code to allow testing. 
@@ -34,4 +34,4 @@ So a brief summary of the book could be:
 * Write tests
 * Refactor
 
-I recognise that "use common sense and common refactorings" isn't easy to understand or execute but I was one of those expecting something new in this book.
+I recognize that "use common sense and common refactorings" isn't easy to understand or execute but I was one of those expecting something new in this book.

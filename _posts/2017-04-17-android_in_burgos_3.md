@@ -17,17 +17,16 @@ Third edition of my Android workshop in Burgos, 3 days, 19 hours... slides avail
 
 **Worst edition so far :'(**
 
-We considered cancelling it due to low attendance and in the end I gave the workshop split on 3 days (9!, 5 and 5 hours). 
+We considered canceling it due to low attendance and in the end, I gave the workshop split on 3 days (9!, 5 and 5 hours). 
 9 hours is definitely too much for an introductory course about Android but we didn't have more options with Holy Easter coming soon 
 and other compromises.
 
-Only 11 people attended and it should have been easier than other editions but I felt I didn't explain myself as well as other occasions and 
-the attendees couldn't keep up with the rhythm of the course. 
+Only 11 people attended and it should have been easier than other editions but I felt I didn't explain myself as well as other occasions and the attendees couldn't keep up with the rhythm of the course. 
 
 I've received **very little feedback about the lessons** (just 1 answer in the form) and no projects to review as other editions. 
 That's definitely a very bad signal. I'll try to insist in one email... but I'm less than hopeful.
 
-Things I would do different the next time (if there is one):
+Things I would do differently the next time (if there is one):
 
 * I would start with a **basic Java introductory lesson** for people who don't know Java or know very little programming at all. 
 At least to set a basic minimum for the workshop. An IDE lesson would be great too.
@@ -40,7 +39,7 @@ the course because no one was doing the exercises. It's possible the good soluti
 I think that the metric of success in a workshop is **how many people are pursuing real projects** with that technology. 
 I do know that some people attend courses just to know the possibilities of the technology and have a 10.000 feet view on how to do things.
 
-But it's impossible that no one has a direct interest on practicing the technology. With that metric in mind, I'm afraid this edition has been a 
+But it's impossible that no one has a direct interest in practicing the technology. With that metric in mind, I'm afraid this edition has been a 
 **profound failure**.
 
 Any ideas?
@@ -60,7 +59,7 @@ I'm failing on that and I have to stop and explain it.
 I should have checked the exercises they were doing, even when I felt like that I was stalling the course. I wasn't, I should
  have approached it with a "no children left behind" policy, ignoring those who already knew the topic (those 2 who voted with 8's).
  
-I should have checked and explained topics among classes to those who didn't knew how to program in Java. I suggested a hangout but no one came. 
+I should have checked and explained topics among classes to those who didn't know how to program in Java. I suggested a hangout but no one came. 
 
 I have to state the specific objective of each lesson (instead of topics to cover). The objectives are learning-oriented, it doesn't matter if it takes too much time, 
 the final objective is to learn something.
@@ -79,4 +78,4 @@ If I have to point to one lesson that I want to follow on next courses is this o
 
 I had a feedback form with just 1 answer (a 9/10) until the last lesson. But it wasn't representing the feeling of most of the attendees (the silent majority that didn't have any doubts).
  
-I should had, actively, **looked for more feedback**. That way instead of 3 days full of, useless, content I would have focused on the most important part of the course: to learn the basics. 
+I should have, actively, **looked for more feedback**. That way instead of 3 days full of, useless, content I would have focused on the most important part of the course: to learn the basics. 
