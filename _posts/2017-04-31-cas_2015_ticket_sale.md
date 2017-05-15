@@ -1,6 +1,6 @@
 ---
 title: CAS 2015 Ticket Sale
-date: 2017-04-31T11:00:00+00:00
+date: 2017-04-31T10:00:00+00:00
 author: nhpatt
 layout: post
 guid: http://nhpatt.com/cas_2015_ticket_sale
