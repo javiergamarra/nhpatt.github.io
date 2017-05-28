@@ -47,6 +47,7 @@ I just want to describe the conference in numbers:
 * <a href="https://twitter.com/nhpatt/status/868397749443624962" target="_blank">10+ tweets or whatsapps making fun of my way of presenting the time remaining</a>
 * <a href="https://lechazoconf.com/#blog" target="_blank">5 blog posts by the sponsors</a>
 * +10000 messages on slack (:P)
+* <a href="https://pbs.twimg.com/media/DA26-a9WsAE0h0k.jpg:large" target="_blank">9 amazing organizers and me</a>
 
 <a href="https://www.flickr.com/photos/juanignaciosl/34901059446/in/album-72157681269322514/" target="_blank">So many thanks!</a>
 
