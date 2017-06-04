@@ -57,6 +57,4 @@ I have to force myself (would be great leveraging my OCD) to close and end, comp
 I find it **really hard to start working on those tasks** (because they are very big) and I always postpone them and work in another task.
 * **Tasks not in rtm**: again, with my hate to having too many tasks (it seems my brain doesn't like to see all the pending tasks), I try to cheat myself reflecting tasks in other mediums (like the invoices I'm currently carrying to digitalise) or some fake deadlines on Google Calendar.
 
-Nothing else for now, I haven't talked about the nitty-gritty details. 
-
-Any suggestions are welcomed, though :)
+Nothing else for now, I know I haven't talked about the nitty-gritty details. Any suggestions are welcomed, though :)
