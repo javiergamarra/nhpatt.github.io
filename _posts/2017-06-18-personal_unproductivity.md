@@ -1,6 +1,6 @@
 ---
 title: Personal UNproductivity (2/n)
-date: 2017-06-04T10:00:00+00:00
+date: 2017-06-18T10:00:00+00:00
 author: nhpatt
 layout: post
 guid: http://nhpatt.com/personal_unproductivity
