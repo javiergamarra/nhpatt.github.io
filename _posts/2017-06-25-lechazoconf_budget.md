@@ -149,6 +149,6 @@ This is a brief analysis of the budget. We're happy to answer questions about it
 
 **We want to be transparent and open about how the LechazoConf is organized** and, with that goal in mind, the next step will be **disclosing the trello we used** with all the tasks and formatted to quickly see when we did what. More information in the next posts (I can't promise when, though) :)
 
-PD: Pinchito has wrote about the budget for JSDayES, a very big conference in Madrid. I'll wholeheartedly recommend that [post](http://pinchito.es/2017/jsdayes-2017-cost.html).
+PD: Pinchito has written about the budget for JSDayES, a very big conference in Madrid. I'll wholeheartedly recommend that [post](http://pinchito.es/2017/jsdayes-2017-cost.html).
 
 PD2: I've spared you the details of several budgets I've been involved with (AOS14, AOS15, AOS16, AOS17, CAS16 and the upcoming CAS17). I'll also be happy to answer any doubts about those events. But I do know it is a dull topic. No more budget posts in a while! :D
