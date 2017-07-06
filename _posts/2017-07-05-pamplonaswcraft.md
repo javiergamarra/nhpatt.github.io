@@ -49,4 +49,4 @@ Of the 12 talks/slots, these are the six I liked more:
     
 And that's all!
 
-I was expecting more technical talks but in the end, I chose the less technical ones in each slot. Am I getting older? :P
+I was expecting more technical talks but in the end, I chose the less technical ones in each slot. Am I getting old? :P
