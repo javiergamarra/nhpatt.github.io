@@ -11,6 +11,10 @@ categories:
   - angular
 ---
 
+**[UPDATE]**
+
+I've added several reader suggestions :)
+
 Sorry for the picture, I *do* know it's horrible and I contribute to its ugliness.
 
 I really **like angular**. I know it's over-architected, very complex and can be replaced with React and a few libraries. 
@@ -91,5 +95,11 @@ This is now my go-to post for preparing a course, along with this [one](/android
 * Commit per exercise, references at the beginning...
 * Insist on *please, ask questions!*
 
+Reader suggestions:
+
+* Differentiate levels and target the needs of each level
+* Propose a real, already solved, problem (like twitter, hacker news...) but leave open a part to personalize and make their own.
+* Use storytelling to narrate the problem to solve, to explain that is a **real problem**
+ 
 **I'll keep you updated** with my particular transparency.  
 
