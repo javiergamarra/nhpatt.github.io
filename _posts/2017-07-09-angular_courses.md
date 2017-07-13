@@ -102,4 +102,3 @@ Reader suggestions:
 * Use storytelling to narrate the problem to solve, to explain that is a **real problem**
  
 **I'll keep you updated** with my particular transparency.  
-
