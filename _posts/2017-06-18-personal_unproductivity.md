@@ -46,7 +46,7 @@ But there is a system in place that should have prevented it, **what happened wi
 I broke several compromises (with myself and others). These are the persons affected:
 
 * I broke several compromises with openwebinars. I finished them 10+ days late :'(
-* I had to cancel a course with luce (last-minute call affecting 10 people). Sorry guys :(
+* I had to cancel a course with luce (last-minute call affecting 10 people). Sorry :(
 * I had to finish a demo. And more or less worked Ok. But it could have been way better :(
 * I had to cancel a coffee with Antonio Pol. Sorry :(
 * And I kept postponing several, not-so-important, tasks.
