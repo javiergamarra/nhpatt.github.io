@@ -12,7 +12,7 @@ categories:
   - feedback
 ---
 
-After a small fail with the [wednesday post](/hackatrain) just a very brief post.
+After a small fail with the [Wednesday post](/hackatrain) just a very brief post.
 
 Feedback of the lechazoconf. How it went according to the attendees?
 
