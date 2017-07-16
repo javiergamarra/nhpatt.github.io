@@ -1,6 +1,6 @@
 ---
 title: Hackatrain
-date: 2017-07-09T10:00:00+00:00
+date: 2017-07-13T10:00:00+00:00
 author: nhpatt
 layout: post
 guid: http://nhpatt.com/hackatrain
