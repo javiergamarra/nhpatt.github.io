@@ -76,7 +76,7 @@ As always, I'm still **open to having a hangout** with whoever wants to learn mo
 
 ## Final words
 
-I've written some [previous](http://localhost:4000/aprender-ensenando/) [posts](/android_in_burgos_3/) about feedback... and I've tried several of the objectives I mentioned. But I haven't forced the people to do a personal project nor answer the feedback form. 
+I've written some [previous](/aprender-ensenando/) [posts](/android_in_burgos_3/) about feedback... and I've tried several of the objectives I mentioned. But I haven't forced the people to do a personal project nor answer the feedback form. 
 
 I'm trying to manage expectations (and I think I have improved in that regard) but I'm lacking the confidence to do questions or force the attendees to do something. 
 
