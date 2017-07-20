@@ -42,7 +42,7 @@ I ended skipping lots of talks, walking through the booths and seeing the produc
 
 **I don’t work in the startup scene and I don’t understand (and I do try) the culture**.
 
-I don’t understand this [this product](https://www.indiegogo.com/projects/caia-a-robot-that-fills-your-home-with-sunshine-solar#/) for example. I heard the pitch (it’s not a mirror… it’s an experience) but I don’t understand it… maybe you do, **I want to listen to your opinion!**
+I don’t understand [this product](https://www.indiegogo.com/projects/caia-a-robot-that-fills-your-home-with-sunshine-solar#/) for example. I heard the pitch (it’s not a mirror… it’s an experience) but I don’t understand it… maybe you do, **I want to listen to your opinion!**
 
 I also don’t understand [bookatiger](https://www.bookatiger.com/): it’s not an ETT, it’s a technological platform… but, again, I don't work in the startup scene and I don't know what I'm blabbing about.
 
