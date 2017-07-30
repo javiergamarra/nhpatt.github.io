@@ -58,10 +58,10 @@ Internal iteration is different, and follows the Hollywood principle, "Don’t C
 have to worry about coding when to loop, we just say **"perform this operation on the elements of the collection"**.
 
 ```javascript
-// You can ignore the array declaration and focus in the map
+// You can ignore the array declaration and focus in the forEach
 const arr = Array.from({length: 10}, (_, i) => i);
 
-arr.map(x => console.log(x));
+arr.forEach(x => console.log(x));
 ```
 
 Let's see a classical java example to see all the differences. 
@@ -70,10 +70,10 @@ In this example, we are filtering a list of scores to get only those who have mo
 ```java
 List<Integer> scores = Arrays.asList(4, 2, 3, 1, 6, 8, 2, 10);
 
-List<Integer> passed = getPassed(scores);
+List<Integer> passed = filterPassed(scores);
 System.out.println("Passed: " + passed);
 
-private static List<Integer> getPassed(List<Integer> scores) {
+private List<Integer> filterPassed(List<Integer> scores) {
     List<Integer> passed = new ArrayList<>();
     for (Integer score : scores) {
         if (score > 4) {
@@ -87,7 +87,7 @@ private static List<Integer> getPassed(List<Integer> scores) {
 Let's add another condition to get the worst and the best (1 & 10) scores. Unfortunately, we need another method:
 
 ```java
-private static List<Integer> getExtreme(List<Integer> scores) {
+private static List<Integer> filterExtreme(List<Integer> scores) {
     List<Integer> list = new ArrayList<>();
     for (Integer score : scores) {
         if (score == 1 || score == 10) {
@@ -112,14 +112,14 @@ passed = scores.stream().filter(x -> x > 4)
 
 // or
 
-Predicate<Integer> excellentScores = x -> x == 1 || x == 10;
+Predicate<Integer> extremeScores = x -> x == 1 || x == 10;
 
-excellent = scores.stream().filter(excellentScores)
+excellent = scores.stream().filter(extremeScores)
     .collect(Collectors.toList());
 ```
 
 Yes, I've cheated and used a functional interface. But **the point is that you are now only responsible for 
-creating the logic to filter the collection** but the stream is the one who iterates, it just need the filtering logic. 
+creating the logic to filter the collection** but the stream is the one who iterates, it just needs the filtering logic. 
 
 In internal iteration your code is **less coupled with the iteration code**, you don't have to repeat the looping code. 
 You are also not in control of the iteration, you don't know if the stream is going to use a temporal variable 
