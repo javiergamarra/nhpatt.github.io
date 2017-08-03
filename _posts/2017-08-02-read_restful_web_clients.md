@@ -38,6 +38,8 @@ hypermedia formats but also means a lot of code to convert back and forth the in
 
 I hope no-one encounters the same situation of the book, implementing the full code for the producer and client for 4 or 5 different JSON formats.
 
+And the end result... I can't fathom a web that is completely auto generated and doesn't need to customize the layout, styles or whatever. But maybe that's me.
+
 ## Final words
 
 I've rated it 4 stars of 5 in Goodreads. Yeah, I know. 
