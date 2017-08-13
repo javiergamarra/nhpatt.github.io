@@ -150,7 +150,7 @@ There are some algorithms that are harder to implement with internal iteration a
 
 ## Push vs pull and Lazy vs eager
 
-I'm out of time, so we'll see the differences in the next post! :D
+I'm out of time, so we'll see the differences in the [next post](/internal_push_and_lazy_ii)! :D
 
 #### Postdata:
 
