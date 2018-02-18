@@ -41,7 +41,7 @@ frameborder="0" allowfullscreen></iframe>
 I also recommend the **liferay official youtube channel that is available [here](https://www.youtube.com/liferayinc/)** and has some of the videos (with the 
 slides synced).
 
-Any doubts, complaints (why you downvote a video with commenting the reason?) or feedback is more than welcomed on [twitter](https://twitter.com/nhpatt).
+Any doubts, complaints (why you downvote a video without commenting the reason?) or feedback is more than welcomed on [twitter](https://twitter.com/nhpatt).
 
 I'll talk about hosting meetups, ordering pizzas and moving chairs some other time...
 
