@@ -54,6 +54,12 @@ These are the main sources of revenue:
 
 **The earnings were split in half**, but leaning in favour of sponsorships, **58% were due to sponsorships** (+extra tickets)
  and just 35% being the regular tickets.
+ 
+Thank you [Finizens](https://finizens.com/), [Cognizant](http://cognizantcareers.eu/es_es), 
+[Plastic](https://www.plasticscm.com/), [CARTO](https://carto.com/), [autentia](https://www.autentia.com/), [ticketea](https://www.ticketea.com/), 
+[accenture](https://liquid.delivery/), [everis](https://www.everis.com/spain/es), [NoLegalTech](https://www.nolegaltech.com/es-ES), 
+[Brooktec](https://brooktec.com/home), [Codesai](https://www.codesai.com/), [Colegio Informáticos](https://cpiicyl.org/),
+[UVa](http://www.uva.es/export/sites/uva/), [Agile Spain](https://agile-spain.org/), [Geek & Tech Girls](https://geekandtechgirls.github.io/), [R-ladies](https://rladies.org/) and [Valladolid office of tourism](http://www.info.valladolid.es/).
 
 ## Spending
 
