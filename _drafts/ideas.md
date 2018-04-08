@@ -1,3 +1,5 @@
 # Ideas
 
-* Rescuetime
+* wecode feels
+* meetup ideas
+* rescuetime
