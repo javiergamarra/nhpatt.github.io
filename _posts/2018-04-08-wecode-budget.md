@@ -123,8 +123,8 @@ Friday was low key, just drinks and some food, 273€.
 Saturday was a full-blown party with a private rented place, soft drinks, food (with sushi!), DJ, photographer... 
 at the steal price of 2,272.73 €. **It was absurdly cheap**. 
 
-We were about 130 people at a 17€ per attendee prize. Ridiculously cheap. 
-We had to fight for this prize but the quality blew our expectations. Definitely a keeper.
+We were about 130 people at a 17€ per attendee price. Ridiculously cheap. 
+We had to fight for this price but the quality blew our expectations. Definitely a keeper.
 
 #### T-shirts, merchandising and marketing
 
@@ -162,7 +162,7 @@ a few tickets or attendance.
 
 Those are hard problems that we suffer monthly in the meetups and also in the [lechazoconf](https://lechazoconf.com).
 
-## About the prize
+## About the price
 
 **100€ is definitely a lot of money**. We don't get to spend all of that, because of IVA/VAT, **we just get 82€**. 
 
