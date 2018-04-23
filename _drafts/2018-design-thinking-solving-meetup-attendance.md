@@ -26,3 +26,7 @@ Ideas:
 * Factura ficticia de los costes del meetup
 * Baneos
 * Wall of shame
+
+El proceso para apuntarse a los Meetups seguiría siendo el mismo, sin embargo, de alguna manera, añadiríamos una deadline (por ejemplo, 24h antes del evento) que marcará las asistencias como "confirmadas". 
+
+¿Qué ocurre con las personas que no se hayan dado de baja antes de deadline y no vengan al Meetup? No les ocurrirá nada durante las tres primeras veces. Pero, si una persona se apunta y no viene tres veces, para los próximos diez (por ejemplo) Meetups solamente podrá apuntarse en lista de espera (es decir, no tendrá prioridad para estar en la "lista de confirmados")
