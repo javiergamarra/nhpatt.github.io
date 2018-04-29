@@ -4,3 +4,4 @@
 * meetup ideas
 * rescuetime
 * Rx III
+* sunken costs y entradas
