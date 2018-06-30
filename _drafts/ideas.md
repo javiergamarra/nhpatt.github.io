@@ -7,4 +7,3 @@
 * rescuetime
 * Rx III
 * sunken costs y entradas
-* agotamiento mailing
