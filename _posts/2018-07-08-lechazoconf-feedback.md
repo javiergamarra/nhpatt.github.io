@@ -32,18 +32,21 @@ was hard to top because everything went so well but I made many mistakes this ye
 
 I have one big gripe with the feedback in the website, it's very inconsistent with the opinions I received from friends 
 and colleagues: they loved some talks that have a 3.5 (over 5) and despised others with a 3.8. We received 280 reviews and 
-the highest score is a 4,13 and the lowest a 2,81. **Most scores are in the 3.5-3.8 range**. Those are way lower than expected :(
+the highest score is a 4,13 and the lowest an (IMHO undeserved) 2,81. **Most scores are in the 3.5-3.8 range**. Those are way lower than expected :(
 
 I'm not concerned about the quality of the speakers (that were top-notch) or the quality of the content, the main problem
- with the talks was that they **didn't follow the theme of the conference**: "1 success, 1 failure". And that
+ with some talks was that they **didn't follow the theme of the conference**: "1 success, 1 failure". And that
 some speakers tended to ignore the failure part or use the talk to promote a product/company. 
 
 We insisted quite a lot on the topic but we were not so insistent on receiving the talks before the conference or reviewing 
 the slides. We gave one (unsolicited?) feedback and the speaker got really angry with us :'(
 
 **Adhering to the topic was our responsibility** and we didn't do the right actions to assure it. 
+We'll try to convey our goal and feedback better next time.
 
-**We can't thank the speakers enough for their time and hard work**. We'll try to convey our goal better next time. 
+And I've mentioned it before, **we can't thank the speakers enough for their time and hard work**. Preparing a talk is
+really time-consuming and, when the target is not clear (tech? product? startup?) and the goal complicated (explaining a success
+is "promoting" for some attendees), the LechazoConf is a very demanding conference. I'm sorry for that :'(
 
 As a conference, we have a 4,32/5. Lots of friends voted there so it should be lower. The problems explained there:
 
