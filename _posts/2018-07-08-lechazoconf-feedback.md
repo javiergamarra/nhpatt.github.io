@@ -46,14 +46,14 @@ We'll try to convey our goal and feedback better next time.
 
 And I've mentioned it before, **we can't thank the speakers enough for their time and hard work**. Preparing a talk is
 really time-consuming and, when the target is not clear (tech? product? startup?) and the goal complicated (explaining a success
-is "promoting" for some attendees), the LechazoConf is a very demanding conference. I'm sorry for that :'(
+is "promoting" for some attendees) is even worse, the LechazoConf is a very demanding conference. I'm sorry for that :'(
 
 As a conference, we have a 4,32/5. Lots of friends voted there so it should be lower. The problems explained there:
 
 * Worse catering (vegan especially).
-* Talks not focused on the topic
-* Worse talks
-* Bad attention to sponsors
+* Talks not focused on the topic.
+* Worse talks.
+* Bad attention to sponsors.
 
 ## Post-it Wall
 
@@ -64,16 +64,16 @@ The post-its in the wall were quite friendly... nothing new here (level of the t
 We did a small retrospective where we kept beating the dead horse of the budget, catering, diversity, and talks. 
 We also mentioned several small things like:
 
-* **Fewer talks** (12 are too much, we did know but it was so tempting...)
-* Announce the speaker's name, twitter, and title of the talk
-* Better control of the timetable (again, another thing that was worse than last year)
-* Fruit in the breakfasts
-* More shadowy places in the lunch
-* Water from the tap instead of so much plastic (we tried to contact the town hall...)
-* More trash cans
-* A place to leave coats
-* Air conditioning spotty (we can't control it, it's automated)
-* Very unbalanced division of tasks
+* **Fewer talks** (12 are too much, we did know but it was so tempting...).
+* Announce the speaker's name, twitter, and title of the talk.
+* Better control of the timetable (again, another thing that was worse than last year).
+* Fruit in the breakfasts.
+* More shadowy places in the lunch.
+* Water from the tap instead of so much plastic (we tried to contact the town hall...).
+* More trash cans.
+* A place to leave coats.
+* Air conditioning spotty (we can't control it, it's automated).
+* Very unbalanced division of tasks.
 
 ## Trello
 
