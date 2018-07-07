@@ -1,11 +1,10 @@
 # Ideas
 
-* wecode feels
-* meetup ideas
-* meetup ratio
-* tireness events: aos, cas, lechazo, wecode, $
-* rescuetime
+* Leads
+* WeCode Feels
+* Design thinking Meetups
+* Meetup Ratio
+* Tireness events: aos, cas, lechazo, wecode, $
+* Rescuetime
 * Rx III
-* sunken costs y entradas
-* Before Lechazo
-* Lechazo Trello
+* Sunken costs & tickets
