@@ -34,11 +34,16 @@ I have one big gripe with the feedback in the website, it's very inconsistent wi
 and colleagues: they loved some talks that have a 3.5 (over 5) and despised others with a 3.8. We received 280 reviews and 
 the highest score is a 4,13 and the lowest a 2,81. **Most scores are in the 3.5-3.8 range**. Those are way lower than expected :(
 
-The main problem with the talks was that they **didn't follow the theme of the conference**: "1 success, 1 failure". And that
-speakers tended to ignore the failure part or use the talk to promote a product/company.
+I'm not concerned about the quality of the speakers (that were top-notch) or the quality of the content, the main problem
+ with the talks was that they **didn't follow the theme of the conference**: "1 success, 1 failure". And that
+some speakers tended to ignore the failure part or use the talk to promote a product/company. 
 
 We insisted quite a lot on the topic but we were not so insistent on receiving the talks before the conference or reviewing 
 the slides. We gave one (unsolicited?) feedback and the speaker got really angry with us :'(
+
+**Adhering to the topic was our responsibility** and we didn't do the right actions to assure it. 
+
+**We can't thank the speakers enough for their time and hard work**. We'll try to convey our goal better next time. 
 
 As a conference, we have a 4,32/5. Lots of friends voted there so it should be lower. The problems explained there:
 
