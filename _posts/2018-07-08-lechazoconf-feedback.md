@@ -32,7 +32,7 @@ was hard to top because everything went so well but I made many mistakes this ye
 
 I have one big gripe with the feedback in the website, it's very inconsistent with the opinions I received from friends 
 and colleagues: they loved some talks that have a 3.5 (over 5) and despised others with a 3.8. We received 280 reviews and 
-the highest score is a 4,13 and the lowest an (IMHO undeserved) 2,81. **Most scores are in the 3.5-3.8 range**. Those are way lower than expected :(
+the highest score is a 4,13 and the lowest an (IMHO undeserved) 2,81. **Most scores are in the 3.3-3.8 range**. Those are way lower than expected :(
 
 I'm not concerned about the quality of the speakers (that were top-notch) or the quality of the content, the main problem
  with some talks was that they **didn't follow the theme of the conference**: "1 success, 1 failure". And that
