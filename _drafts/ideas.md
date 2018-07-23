@@ -1,10 +1,9 @@
 # Ideas
 
 * Leads
-* WeCode Feels
-* Design thinking Meetups
-* Meetup Ratio
-* Tireness events: aos, cas, lechazo, wecode, $
-* Rescuetime
-* Rx III
-* Sunken costs & tickets
+* Design Thinking Meetups
+
+* wecode feels
+* meetup ratio (+sunken costs & tickets)
+* rescuetime
+* rx III
