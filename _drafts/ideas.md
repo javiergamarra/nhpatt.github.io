@@ -4,6 +4,7 @@
 
 * Leads
 * Design Thinking Meetups
+* rx III
 
 ## Books
 
@@ -14,4 +15,3 @@
 * wecode feels
 * meetup ratio (+sunken costs & tickets)
 * rescuetime
-* rx III
