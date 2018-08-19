@@ -29,10 +29,13 @@ hacer de poli malo, gestionar conflictos... **queremos medidas positivas, no pun
 * **Un sistema de rating de asistentes**... en base a la asistencia, construir un rating (estilo estrellas o puntuación) de la calidad
 del "asistente": si suele venir tendrá más nota que si dice que lo va a hacer y luego falla. De nuevo, implica ver quién viene y quién no, apuntarlo en alguna 
 plataforma... aún estando integrado en meetup es poco viable (e incómodo) hacer un registro inicial o pasar una lista de asistencia.
+
+    Otra opción sería que cada asistente confirmase su asistencia directamente ese día, pero hay un problema de incentivos... 
+    que motivación tengo para entrar en meetup y marcar que he asistido? punitiva? positiva?
 * **Anunciar los meetups con asistencia cerrada hasta una semana antes**... esta es viable aunque seguirá habiendo bastantes faltas (cómo algún meetup que ya lo aplica ha comentado públicamente).
 * **Aumentar la fricción para apuntarse**... dificultar el registro con un formulario o obligar a una doble confirmación con una deadline 
 (por ejemplo, 24h antes del evento) que marcará las asistencias como "confirmadas"... esto es efectivo pero triste... tener que hacer más difícil algo para que
-menos gente se apunte y suba el ratio de asistentes :'(  
+menos gente se apunte y suba el ratio de asistentes :'(
 * **Devolver la no-asistencia cómo horas a la comunidad, en forma de charlas cortas**... uff... es díficil que alguien interesado
 en dar una charla la de finalmente (encontrar un día, un sitio, audiencia, preparación)... cómo para "obligar" a gente que no quiere
 dar una charla.
