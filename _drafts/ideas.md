@@ -1,17 +1,13 @@
 # Ideas
 
-## In progress
+## Promised
 
 * Leads
-* Design Thinking Meetups
 * rx III
-
-## Books
-
-* CMV
 
 ## TODO
 
-* wecode feels
+* invoice meetups
 * meetup ratio (+sunken costs & tickets)
 * rescuetime
+* CMV review
