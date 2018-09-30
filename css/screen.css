@@ -643,6 +643,7 @@ article .text small {
 }
 
 article .text pre {
+    white-space: pre-wrap;
     padding: 14px 20px;
     font-size: 16px;
     max-width: 100%;
