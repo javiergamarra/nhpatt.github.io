@@ -25,7 +25,7 @@ Here are all the talks:
 * [Nativescript en práctica](https://drive.google.com/open?id=1tuOnP6_glVULkPdLO38cxLqZwCeQOoq9qcvbySUHoFA) with a perfect 5.0 and 2 reviews.
 * [Jugando con Android Things](https://drive.google.com/open?id=11iivhkRzTFhV3JlaZUbk-Bau3GeDtjaBtFfE6uhQnwo) with a perfect 5.0 and 4 reviews.
 * [Construye tu propio assistant con raspberry pi y javascript](https://drive.google.com/open?id=1RAGtQuxjFxJGwxmnKePk2cmRx8M_E-GW0kniH9PP0IU) with a 4.0 and 5 reviews. Including a completely unfair 1 (complaining about the lack of material and lying about the number of attendees)
-* [WebGL y three.js: creando Manhattan](https://drive.google.com/open?id=1Jo80D688D94DLE4cSSn1tMXBffOcZNSjpaYXgCF9EZQ) with a 4.8 and 5 reviews.
+* [WebGL y three.js: creando Manhattan](https://drive.google.com/open?id=1Jo80D688D94DLE4cSSn1tMXBffOcZNSjpaYXgCF9EZQ) with a 4.9 and 7 reviews.
 
 2016 was not a good year... (3.42 with Esther and 4.0 alone). I arrived directly to the Codemotion from my honeymoon's trip and I didn't coordinate
 the presentation with Esther (sorry :()...
