@@ -106,3 +106,11 @@ This should be it, right? **We shouldn't expose our domain layer in our REST API
 This is what I think, focusing on what I think are frontend priorities, as a mobile developer I heavily do NOT want to make several API calls to fill out a screen (and that's one of the main reasons GraphQL is so popular these days).
 
 I'm up for defining the business use cases of each frontend screen/app but, under those pretenses, **we should try to minimize HTTP calls**.
+
+### Notes:
+
+* "If* we have defined a domain model in our backend" This is not our case and I think it's very unfortunate. Without doing the exercise of domain modeling you can't call your existing modules "bounded contexts" and try to transpose them to your APIs. Trying to start to define your domain model from the APIs it's "putting the cart before the horse", IMHO. I vehemently think that: first, you have to define a domain model, then expose it with an API.
+
+    REST resources should be aggregates of existing domain models. If you just have entities (and not domain models) and try to shoehorn them into resources you risk defining "REST domain models" that are later discarded when someone defines a real domain layer. 
+    
+    I'm even more against fracturing your existing entities in your resources before the domain model work. If those entities are too heavy, the work of decoupling them should be done in the domain layer (and the API should decide if expose them as it is or aggregated). If you start decoupling them in your API you get the risk of fracturing them differently, annoying your users because it used to be the same "business" concept and increase complexity before it is needed.
