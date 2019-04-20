@@ -12,3 +12,5 @@
 * invoice meetups
 * meetup ratio (+sunken costs & tickets)
 * rescuetime
+
+pizzas + trains + cairo love + happy new year año + age expectancy + sorries + time preparing presentation + think in slides
