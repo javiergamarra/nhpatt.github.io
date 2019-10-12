@@ -1,5 +1,7 @@
 # Ideas
 
+About 6 years with Agile Spain
+
 ## Promised
 
 * leads
