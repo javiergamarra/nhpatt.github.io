@@ -3,8 +3,8 @@ title: Presupuesto de la Lechazo Conf 2018
 date: 2018-06-24T10:00:00+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/lechazoconf2018-budget
-permalink: /lechazoconf2018-budget/
+guid: http://nhpatt.com/lechazoconf-budget-2018
+permalink: /lechazoconf-budget-2018/
 image: lechazoconf2018-budget.png
 categories:
   - lechazoconf
@@ -20,7 +20,7 @@ Aquí [está](https://docs.google.com/spreadsheets/d/1buMa73Ikl9-ej5_iUpdA-g3rND
 (AOS2014) que perdió 278€ por contabilizar mal el IVA (cuando me di cuenta no conseguimos compensarlo a tiempo).
 
 No ha sido una sorpresa (cómo algunos imaginasteis por la insistencia con los patrocinios) y fue por una combinación de causas:
-el catering fue bastante más caro (y nos enteramos un mes antes), gastamos más en speakers y cenas y tuvimos muy pocos patrocinadores.
+el catering fue bastante más caro (y nos enteramos un mes antes, no está claro de quién fue la culpa), gastamos más en speakers y cenas y tuvimos muy pocos patrocinadores.
 
 Los grandes números son:
 
@@ -184,8 +184,7 @@ Gastamos 7412€ en comida, el 54% de los gastos. Eso incluye 1738€ en café, 
 
 El menú principal eran 16,50€ por persona y cada brocheta de pinchos 24€.
 
-Sobra decir que NO estamos contentos con el catering, especialmente comparandolo con el del año anterior. 
-**El sitio nos obligaba a escoger su catering y este año cambiaron de empresa**.
+Sobra decir que NO estamos contentos con el catering, especialmente comparandolo con el del año anterior. El sitio nos recomendó un catering y este año cambiaron de empresa recomendada.
 
 El año pasado fue sustancialmente más barato, mucha más cantidad (este año no sobró nada de nada) y más respetuosos con los tiempos.
 Nos descolocó totalmente (el presupuesto cuadraba perfectamente hasta ese momento) que un mes antes nos cambiaran el precio del lechazo de 13€ a 24€ la brocheta.
@@ -199,7 +198,7 @@ cuando nos enteramos de la subida (llevabamos 3 meses intentando confirmar el pr
 Personalmente, me preocupaba especialmente este punto del que no me encargaba directamente (incluso se asignó otra persona adicional para
 desbloquearlo) y al final mis miedos eran fundados. Tenía que haber insistido más en las weeklies con cerrar algo que supone casi 2/3 del 
 presupuesto. Conocer cuanto antes precios para buscar alternativas o más fuentes de financiación. Cuando nos enteramos, a 4 semanas del evento,
-nos dejó un hueco de 1000€ inesperado. No me gustó la gestión de esta tarea, especialmente porque 3 días antes de la subida, me comentaron que 
+nos dejó un hueco de 1000€ inesperado. No me gustó la gestión de esta tarea desde nuestro lado, especialmente porque 3 días antes de la subida, me comentaron que 
 el precio iba a ser el del año pasado. **Hay que aprender mucho de este error**.
 
 Creo que, en general, los asistentes no se quedaron con hambre (salvo vegetarianos/veganos, que la variedad brillaba por su ausencia) pero justo.

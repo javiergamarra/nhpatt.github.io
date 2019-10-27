@@ -1,10 +1,10 @@
 ---
 title: LechazoConf... what went wrong
-date: 2018-07-08T10:00:00+00:00
+date: 2018-07-09T10:00:00+00:00
 author: nhpatt
 layout: post
-guid: http://nhpatt.com/lechazoconf-feedback
-permalink: /lechazoconf-feedback/
+guid: http://nhpatt.com/lechazoconf-feedback-2018
+permalink: /lechazoconf-feedback-2018/
 image: lechazoconf-feedback.png
 categories:
   - events
@@ -18,7 +18,7 @@ the 3 main issues:
 * *We have **a small hole in our budget** (at least 1000€, could be around 2000€) and a troubling decision with the new
  catering*: exactly what I mentioned in my [previous post](../lechazoconf2018-budget).
  
-* **Food**. *This can fail spectacularly or turn out great. It's a new catering and forced by the venue*. **Failed** :(.
+* **Food**. *This can fail spectacularly or turn out great. It's a new catering and recommended by the venue*. **Failed** :(.
  
 * **Quality**. *I'm less worried about the quality of the talks. But last year talks were amazing and I think it's hard to top.*
 **Worse than last year**.
