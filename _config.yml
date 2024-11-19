@@ -16,3 +16,5 @@ markdown: kramdown
 
 plugins:
   - jekyll-paginate
+
+include: [".well-known"]
