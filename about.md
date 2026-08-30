@@ -14,6 +14,12 @@ I'm a Staff Software Engineer at [Unity](https://unity.com), based in Valladolid
 
 I love challenges and learning about data visualization.
 
-I'm an organizer in [CyLicon Valley](https://cyliconvalley.es), a tech meetup in CyL, to help spread better technical practices in other companies, and I help run [LechazoConf](https://lechazoconf.com) and [WeCode](https://wecodefest.com). I was also a member of the board of [@agilespain](https://x.com/agilespain), the Spanish Agile national association, and I organize and give talks in several other tech groups.
+I've given more than one hundred talks at Codemotion, Commit Conf, T3chFest, CyLicon Valley and a long tail of meetups and internal sessions. Some of them were recorded: [Do's and Don'ts of Data Visualization](https://www.youtube.com/watch?v=gm33ZijU-1g), [WebGL y three.js: creando Manhattan](https://www.youtube.com/watch?v=VCr3RKYdpyw)...
+
+I also used to run **Liferay Agora**, the [meetup space](https://www.youtube.com/liferayagora) where we published the recordings of the meetups hosted at Liferay.
+
+On the organizing side I've helped run [LechazoConf](https://lechazoconf.com), [WeCode](https://wecodefest.com), [CyLicon Valley](https://cyliconvalley.es) (a tech meetup in CyL, to help spread better technical practices in other companies) and [AgileCyL](https://agilecyl.org). I organized AOS 2014, CAS 2015 and other conferences for [Agile Spain](https://agile-spain.org), the Spanish Agile national association, where I was also a member of the board.
+
+I used to love [Codewars](https://www.codewars.com/users/nhpatt).
 
 I'm available through <a href="mailto:nhpatt@gmail.com">email</a> or [x](https://x.com/nhpatt), [bluesky](https://bsky.app/profile/nhpatt.com), [linkedin](https://www.linkedin.com/in/javiergamarraolmedo), [github](https://github.com/javiergamarra)...
