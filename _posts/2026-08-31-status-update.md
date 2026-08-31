@@ -1,6 +1,6 @@
 ---
 title: Status update
-date: 2026-08-31T10:00:00+00:00
+date: 2026-08-31T08:00:00+00:00
 author: nhpatt
 layout: post
 guid: http://nhpatt.com/status-update
