@@ -182,7 +182,7 @@ The trip is hard though.
 
 ## About the money
 
-So... **we haven't closed the budget yet**. We're still missing an **invoice** ([Renfe](http://twitter.com/renfe) after 2 emails and 2 private conversations via Twitter.
+So... **we haven't closed the budget yet**. We're still missing an **invoice** ([Renfe](https://x.com/renfe) after 2 emails and 2 private conversations via Twitter.
 If we don't get it we'll lose around 130€ of those 652€ in profits because missing VAT returns.
 
 We're also **missing 2 payments from two sponsors**. Yeah, we don't get the money before the conference, at least 1000€ is still pending.

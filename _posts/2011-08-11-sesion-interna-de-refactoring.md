@@ -9,7 +9,7 @@ permalink: /sesion-interna-de-refactoring/
 categories:
   - dev
 ---
-El pasado miércoles impartí una sesión sobre calidad en [Luce I.T.](http://luceit.com), concretamente sobre Refactoring. Las slides están [aquí](http://nhpatt.com/slides/a%20REFACTORING%20day/) (lamentablemente dependen mucho de la explicación).
+El pasado miércoles impartí una sesión sobre calidad en [Luce I.T.](http://luceit.com), concretamente sobre Refactoring. Las slides están [aquí](https://github.com/javiergamarra/slides/tree/quality/a%20REFACTORING%20day) (lamentablemente dependen mucho de la explicación).
 
 Intenté explicar los conceptos fundamentales basándome en el ejemplo de [Refactoring](http://books.google.fr/books/about/Refactoring.html?id=1MsETFPD3I0C&redir_esc=y) de Martin Fowler. Para los que no hayáis leído el libro, en el primer capítulo se describe un pequeño proyecto de alquiler de películas. El código del mismo está [aquí](https://github.com/nhpatt/refactoring/commit/9615a58844695de93426f3682b4e714d8d58fd23).
 
@@ -50,7 +50,7 @@ La mayor parte de la sesión fue la ejecución en público de las refactorizacio
     
     Sustituyendo un cálculo que se realizaba dentro de un bucle, junto con otras cosas, a un método aparte y dejando el bucle (más código y dos bucles). La principal pega era rendimiento, ya que la refactorización separaba cálculos y dejaba el código más claro, pero teniendo en cuenta de nuevo la [optimización temprana](http://en.wikipedia.org/wiki/Program_optimization#When_to_optimize) no es un problema.
     
-    Por último, resumí brevemente las [slides](http://nhpatt.com/slides/a%20REFACTORING%20day/) y tuvimos una ronda de dudas y preguntas. Se quedaron en el tintero ejercicios prácticos por parejas, estilo los videos de [Jason Gorman](https://www.youtube.com/user/parlezuml).
+    Por último, resumí brevemente las [slides](https://github.com/javiergamarra/slides/tree/quality/a%20REFACTORING%20day) y tuvimos una ronda de dudas y preguntas. Se quedaron en el tintero ejercicios prácticos por parejas, estilo los videos de [Jason Gorman](https://www.youtube.com/user/parlezuml).
 
     Realizaremos más sesiones sobre refactoring en un futuro. Si estás por Valladolid y te apetece pasarte a una sesión (miércoles cada 2 semanas), dame un toque. Estáis todos invitados
     

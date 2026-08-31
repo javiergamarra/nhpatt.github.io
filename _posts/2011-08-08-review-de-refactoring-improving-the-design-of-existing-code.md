@@ -20,7 +20,7 @@ El libro comienza explicando el concepto básico de [Refactoring](http://en.wiki
 
 El gran núcleo del libro se dedica a los [code smells](http://en.wikipedia.org/wiki/Code_smell) y a la lista de posibles [refactorings](http://www.refactoring.com/catalog/index.html) con guías de aplicación paso a paso. El libro se completa con tres capítulos escritos por invitados, uno sobre general sobre refactoring, otro de la herramienta específica de Smalltalk y un capítulo final escrito por [Kent Beck](http://en.wikipedia.org/wiki/Kent_Beck).
 
-Un pequeño resumen destilado está en estas [slides](http://nhpatt.com/slides/a%20REFACTORING%20day/) (pulsa &#8216;c&#8217; para ver los comentarios).
+Un pequeño resumen destilado está en estas [slides](https://github.com/javiergamarra/slides/tree/quality/a%20REFACTORING%20day) (pulsa &#8216;c&#8217; para ver los comentarios).
 
 
 
@@ -54,7 +54,7 @@ Me ha gustado especialmente el capítulo de Kent Beck, sobre la importancia de e
 
 A lo largo del libro se menciona la importancia de saber con certeza **la actividad que estás realizando en todo momento**, con una metáfora de sombreros (llevar puesto el sombrero de refactoring o de desarrollador) y no mezclar en el mismo instante las dos activades.
 
-Me gusta especialmente [la lista exhaustiva de refactorings](http://nhpatt.com/slides/a%20REFACTORING%20day/#slide9), [de code smells](http://nhpatt.com/slides/a%20REFACTORING%20day/#slide8) y las razones por las que [refactorizar](http://nhpatt.com/slides/a%20REFACTORING%20day/#slide4), [cuando](http://nhpatt.com/slides/a%20REFACTORING%20day/#slide5), [los problemas](http://nhpatt.com/slides/a%20REFACTORING%20day/#slide7) y qué contar al jefe (si no le importa la calidad, no se lo cuentes y hazlo!).
+Me gusta especialmente [la lista exhaustiva de refactorings](https://github.com/javiergamarra/slides/tree/quality/a%20REFACTORING%20day), [de code smells](https://github.com/javiergamarra/slides/tree/quality/a%20REFACTORING%20day) y las razones por las que [refactorizar](https://github.com/javiergamarra/slides/tree/quality/a%20REFACTORING%20day), [cuando](https://github.com/javiergamarra/slides/tree/quality/a%20REFACTORING%20day), [los problemas](https://github.com/javiergamarra/slides/tree/quality/a%20REFACTORING%20day) y qué contar al jefe (si no le importa la calidad, no se lo cuentes y hazlo!).
 
 Por poner pegas al libro, las guías de refactorización pierden un poco el sentido ante el avance de los entornos con refactorizaciones automatizadas (aunque no para todos los lenguajes) y echo de menos alguna refactorización más larga (estilo Clean Code).
 

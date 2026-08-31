@@ -65,4 +65,4 @@ Were those lies blue or black? or just over simplifications? I think that a mix 
 flipper83 mentioned in his [talk](https://www.youtube.com/watch?v=2jaPgSiy1jg) in codemotion16 that speakers have a huge responsibility because they influence other people and they have to **speak the truth**. So here are all the facts, 
 I don't need to lie to show what a great company Liferay is :D
 
-Did I miss one lie? please complain via [twitter](http://twitter.com/nhpatt) or [email](mailto:nhpatt@gmail.com)
+Did I miss one lie? please complain via [twitter](https://x.com/nhpatt) or [email](mailto:nhpatt@gmail.com)

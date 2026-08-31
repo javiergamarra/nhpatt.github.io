@@ -11,7 +11,7 @@ categories:
 ---
 Por varias redes sociales me ha llegado esta [crítica](http://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/Michael-O-Church?srid=TyrG&share=1) a _agile_. Leedla y volved.
 
-Esa crítica ha resonado bastante y me parece muy desacertada. Colaboro con [@agilecyl](http://twitter.com/agilecyl) y [@agilespain](http://twitter.com/agilespain) habitualmente por lo que mi opinión al respecto os la podéis imaginar.
+Esa crítica ha resonado bastante y me parece muy desacertada. Colaboro con [@agilecyl](https://x.com/agilecyl) y [@agilespain](https://x.com/agilespain) habitualmente por lo que mi opinión al respecto os la podéis imaginar.
 
 Pero soy muy pragmático y el primero en reconocer que las metodologías ágiles tienen muchas pegas pero no son las señaladas en esa respuesta en quora.
 

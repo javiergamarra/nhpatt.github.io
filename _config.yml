@@ -3,7 +3,7 @@ title: "always an underachiever"
 logo:
 email: nhpatt@gmail.com
 description: Javier Gamarra aka nhpatt
-url: "http://nhpatt.github.io" # the base hostname & protocol for your site
+url: "https://nhpatt.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: nhpatt
 github_username:  nhpatt
