@@ -18,7 +18,7 @@ I've given more than one hundred talks at Codemotion, Commit Conf, T3chFest, CyL
 
 I also used to run **Liferay Agora**, the [meetup space](https://www.youtube.com/liferayagora) where we published the recordings of the meetups hosted at Liferay.
 
-On the organizing side I've helped run [LechazoConf](https://lechazoconf.com), [WeCode](https://wecodefest.com), [CyLicon Valley](https://cyliconvalley.es) (a tech meetup in CyL, to help spread better technical practices in other companies) and [AgileCyL](https://agilecyl.org). I organized AOS 2014, CAS 2015 and other conferences for [Agile Spain](https://agile-spain.org), the Spanish Agile national association, where I was also a member of the board.
+On the organizing side I've helped run [LechazoConf](https://lechazoconf.com), [WeCode](https://wecodefest.com), [CyLicon Valley](https://cyliconvalley.es) (a tech meetup in CyL, to help spread better technical practices in other companies) and [AgileCyL](https://agilecyl.org). I organized AOS 2014, CAS 2015 and other conferences for [Agile Spain](https://agile-spain.org), the Spanish Agile national association, where I was also a member of the board. I also used to run [Circle Madrid](https://x.com/circlemadrid).
 
 I used to love [Codewars](https://www.codewars.com/users/nhpatt).
 

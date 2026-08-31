@@ -5,6 +5,7 @@ author: nhpatt
 layout: post
 guid: http://nhpatt.com/status-update
 permalink: /status-update/
+image: status-update.png
 categories:
   - status update
   - life
@@ -14,9 +15,10 @@ So... it's been a while. My [last post](/new-year-2020/) was a set of 2020 resol
 
 ## Life
 
-The big one: we had a kid. And then, apparently once wasn't enough, another. We're also buying a new house again.
-
-The 2016 biking numbers remain untouched. Picking up swimming instead, we'll see how that goes. Reading dropped to almost nothing, but in its place I went back to gaming after 15 years.
+* **Two kids now.** The first one, and then, apparently once wasn't enough, another.
+* **New house**, again.
+* **Biking**: the 2016 numbers remain untouched. Picking up swimming instead, we'll see how that goes.
+* **Reading** dropped to almost nothing. Went back to **gaming** after 15 years without touching a controller.
 
 ## Work
 
